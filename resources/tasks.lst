@@ -1,0 +1,11 @@
+# Task list:
+# 
+# Samples
+#CRITICAL;27/06/2018 18:00;TITLE;Sample critical text
+#MAJOR;28/06/2018 18:00;TITLE;Sample major text
+#
+# - MAX description size in default configuration: 90 chars
+
+MAJOR;01/12/2018 18:00;JOB;Do that thing at my job
+MINOR;01/12/2018 18:00;HOME;Cleanup garage | Organize tools
+
